@@ -45,6 +45,26 @@ class _MyAppState extends State<MyApp> {
                 ),
               ),
             ),
+            Positioned(
+                top: 35,
+                right: 10,
+                child: Container(
+                  height: 42,
+                  width: 110,
+                  decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(20),
+                    color: Color(0xFF1C1B20),
+                  ),
+                  child: Center(
+                      child: Text(
+                    "Following",
+                    style: TextStyle(
+                      color: Colors.white70,
+                      fontSize: 16,
+                      fontWeight: FontWeight.w600,
+                    ),
+                  )),
+                )),
             Column(
               children: [
                 const Padding(padding: EdgeInsets.only(top: 35)),
