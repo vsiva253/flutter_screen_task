@@ -99,9 +99,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out:
 
-- Your Name
-- Email: your.email@example.com
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- Your Siva
+- Email: sivasaireddypamulapati17@gmail.com
+- GitHub: [https://github.com/vsiva253](https://github.com/vsiva253)
 ```
 
-You can replace `your-username` and customize the content as needed. This README includes sections for installation, usage, customization, contributing, license, acknowledgments, and contact information. Additionally, it provides placeholders for screenshots and a demo image. You can replace these with actual screenshots of your app.
